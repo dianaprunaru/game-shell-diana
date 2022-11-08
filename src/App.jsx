@@ -1,6 +1,5 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import { Home, Play } from './pages';
-import { FourOhFour } from './pages/404';
+import { Home, Play, FourOhFour } from './pages';
 
 const router = createBrowserRouter([
   {
